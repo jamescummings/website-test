@@ -57,10 +57,10 @@
       <body>
          <div type="page" facs="#postit01">
             <head>
-               <hi rend="u">DCHM Template</hi>
+               <hi rend="u">DCHM TEST Template</hi>
             </head>
             <p>
-               A <del>silly</del> <add>small</add> example
+               A test of a <del>silly</del> <add>small</add> example
                <lb/>text.
             </p>
          </div>
